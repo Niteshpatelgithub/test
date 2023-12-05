@@ -1,2 +1,1 @@
-# test
-my firsst repostary
+my name is nitesh patel 
